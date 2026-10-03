@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Alisher Bimano — software developer building mobile apps, APIs, and product prototypes" />
+  <img src="assets/hero.svg" width="100%" alt="Alisher Bimanov — software developer building mobile apps, APIs, and product prototypes" />
 </p>
 
 I build product prototypes across mobile, backend, and on-chain workflows. My public work ranges from a Flutter legal-assistance app with AI integrations to a Solana Devnet invoicing prototype.
